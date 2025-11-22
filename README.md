@@ -71,15 +71,16 @@ plt.tight_layout()
 plt.show()
 
 Output Waveform
-![08a8df5e-8d3c-4399-870b-d67e30bad81b](https://github.com/user-attachments/assets/a3f3a544-fe5d-4dcd-95be-4e1015b858e5)
+
+<img width="783" height="582" alt="image" src="https://github.com/user-attachments/assets/57da76fa-0e74-41fc-b10e-f761cb98f223" />
 
 Tabular Column
 
-![45be3af8-0058-43f8-ab0b-6a03ae15bc91](https://github.com/user-attachments/assets/5142d49c-6e9e-48f2-9f5f-2e79ef5ae78a)
+<img width="1280" height="962" alt="image" src="https://github.com/user-attachments/assets/b699ceee-b2d2-4344-a8c3-ffea6698b287" />
 
 Calculation
 
-![068511e2-54c9-4431-b0f8-714938e6bb72](https://github.com/user-attachments/assets/18dc2b3e-87d6-4dde-8845-2d9ddff00eb1)
+![Uploading image.png…]()
 
 
 Result
