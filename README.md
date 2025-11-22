@@ -80,7 +80,7 @@ Tabular Column
 
 Calculation
 
-![Uploading image.png…]()
+<img width="1148" height="1036" alt="image" src="https://github.com/user-attachments/assets/e8bdd546-8704-46b5-9f0b-83fa5787513f" />
 
 
 Result
